@@ -2,8 +2,8 @@ import settings
 
 
 def height_prct(percentage):
-    return (settings.height / 100) * percentage
+    return (settings.HEIGHT / 100) * percentage
 
 
 def width_prct(percentage):
-    return (settings.width / 100) * percentage
+    return (settings.WIDTH / 100) * percentage

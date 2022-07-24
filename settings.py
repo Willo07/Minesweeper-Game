@@ -1,5 +1,5 @@
-width = 1080
-height = 720
-grid_size = 6
-cell_count = grid_size ** 2
-mines_count = cell_count // 4
+WIDTH = 1080
+HEIGHT = 720
+GRID_SIZE = 6
+CELL_COUNT = GRID_SIZE ** 2
+MINES_COUNT = CELL_COUNT // 4
